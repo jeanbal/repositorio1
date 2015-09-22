@@ -1,3 +1,3 @@
 <?php
-echo "de que mas valer";
+echo "de que mas vale corazon";
 ?>
